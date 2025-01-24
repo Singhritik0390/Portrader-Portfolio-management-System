@@ -59,9 +59,7 @@ Design and create a portfolio management system which aims to :
 
 ## Team Members
 1. Shikhar jaiswal [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/shikhar1020jais) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/bpagare6)
-2. Purvesh Jain [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/purvesh-jain-035727155/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/purvesh314)
-3. Ritik Singh [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/singhritik0390/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/singhritik0390)
-4. Nipun Khivansara [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nipun-khivansara-152bb8199/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Nipunkhivansara)
+2. Ritik Singh [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/singhritik0390/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/singhritik0390)
 
 ### Would Like to Contribute?
 Please watch the video : https://youtu.be/MnUd31TvBoU
